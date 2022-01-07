@@ -1,6 +1,6 @@
 # mypkg
 ## 概要    
-branchesにあるmasterの中にあるファイル名【scripts】内にある２つのノード、【count.py】と【twice.py】を使って数字をカウントしていき、それをメッセージとして表示するパッケージです。
+ファイル名【scripts】内にある２つのノード、【count.py】と【twice.py】を使って数字をカウントしていき、それをメッセージとして表示するパッケージです。
 
 ## 動作環境 
 ・Raspberry pi 4B  
