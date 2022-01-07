@@ -37,7 +37,7 @@ ROSを有効にします。
 動画は[こちら](https://www.youtube.com/watch?v=_PnO3ojpHpU)です。  
 
 ## その他(ライセンス、著作権者等)
-・ライセンス：[BSD 3-Clause License](https://github.com/tamiharu/mypkg/blob/main/LICENSE)  
+・ライセンス：[BSD 3-Clause License](https://github.com/tamiharu/mypkg/blob/master/LICENSE)  
 ・著作権者：上田隆一(Ryuichi Ueda)
 
 ・Pushの際に参考にしたサイト  
